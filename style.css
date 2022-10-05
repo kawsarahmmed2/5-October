@@ -17,9 +17,7 @@ section:before{
     mix-blend-mode: color;
     pointer-events: none;
 }
-video{
-    object-fit: cover;
-}
+
 h1{
     margin: 0;
     padding: 0;
